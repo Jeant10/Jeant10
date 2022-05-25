@@ -2,7 +2,7 @@
 I'm a full stack developer...
 
 
-# Hi, I'm Katherine! 👋
+# Hi, I'm Jean! 👋
 
 
 ## Other Common Github Profile Sections
