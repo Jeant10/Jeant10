@@ -28,11 +28,11 @@ Javascript, HTML, CSS...
 
 <div align="center">
 </br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jeant10&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=D93A7C&icon_color=F7D747&text_color=A9FEF7&bg_color=0,000000,141321" alt="Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jeant10&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=D93A7C&icon_color=F7D747&text_color=A9FEF7&bg_color=0,000000,141321" alt="Jean's Github Stats">
 </br>
 </br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeant10&theme=tokyonight&langs_count=6&layout=compact&hide=tsql,html,pug,css" alt="Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeant10&theme=tokyonight&langs_count=6&layout=compact" alt="Jean's Language Stats">
 
 </br>
 </br>
