@@ -24,6 +24,8 @@
 </br>
 </br>
 
+<h3 align="left">My Language Stats:</h3>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeant10&theme=tokyonight&langs_count=6&layout=compact" alt="Jean's Language Stats">
 
 </br>
