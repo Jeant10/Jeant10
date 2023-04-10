@@ -1,8 +1,5 @@
-## 🚀 About Me
-I'm a full stack developer...
-
-
-# Hi, I'm Jean! 👋
+<h1 align="center">Hi 👋, I'm Jean</h1>
+<h2 align="center">I'm a Data Analyst, Full Stack Developer and Mobile Developer from Ecuador.</h2>
 
 
 ## Other Common Github Profile Sections
