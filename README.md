@@ -13,6 +13,8 @@
  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,angular,mysql,laravel,py,java,c,cpp,cs,visualstudio,vscode,wordpress,netlify,heroku,firebase,androidstudio,bash,arduino)](https://skillicons.dev)
 
+<h3 align="left">My Github Stats:</h3>
+
 <div align="center">
 </br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jeant10&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=D93A7C&icon_color=F7D747&text_color=A9FEF7&bg_color=0,000000,141321" alt="Jean's Github Stats">
