@@ -49,5 +49,3 @@
 <a href="https://jeantituana.netlify.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=Web&message=jeantituana.netlify.app&color=f27232" alt="My Web"></a>
 
 </div>
-
----
