@@ -26,8 +26,8 @@
 <i>Follow me around the website:</i><br>
 
 <a href="https://www.linkedin.com/in/Jeant10/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/Jeant102" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
-<a href="https://jeantituana.netlify.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=My Web&message=jeantituana.netlify.app&color=f27232" alt="My Web"></a>
+<a href="https://twitter.com/Jeant102" ><img src="https://img.shields.io/twitter/follow/Jeant102.svg?style=social" /> </a>
+<a href="https://jeantituana.netlify.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=Web&message=jeantituana.netlify.app&color=f27232" alt="My Web"></a>
 
 </div>
 
