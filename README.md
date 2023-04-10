@@ -11,7 +11,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,mysql,laravel,py)](https://skillicons.dev)
 
 <div align="center">
 </br>
@@ -31,8 +31,5 @@
 <a href="https://jeantituana.netlify.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=Web&message=jeantituana.netlify.app&color=f27232" alt="My Web"></a>
 
 </div>
-
-
-<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
 
 ---
