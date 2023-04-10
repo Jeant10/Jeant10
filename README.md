@@ -2,7 +2,7 @@
 <h2 align="center">I'm a Data Analyst, Full Stack Developer and Mobile Developer from Ecuador.</h2>
 
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript,React, Angular, etc...
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, React, Laravel, Angular, etc...
 - 📚 I’m currently learning about Frontend and Backend technologies
 - 🎯 Future Goals: Learn more technologies
 - ⚡ Fun facts: Open and friendly.
