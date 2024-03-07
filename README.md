@@ -3,7 +3,7 @@
 
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, Laravel, Angular, etc...
-- 📚 I’m currently learning about Frontend, Movil and Backend technologies
+- 📚 I’m currently learning about Frontend, Backend and Movil technologies
 - 🎯 Future Goals: Learn more technologies
 - ⚡ Fun facts: Open and friendly.
 
