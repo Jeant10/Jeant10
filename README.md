@@ -11,7 +11,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,npm,react,angular,electron,mysql,laravel,php,ts,py,r,java,c,cpp,cs,visualstudio,git,github,vscode,wordpress,netlify,heroku,firebase,androidstudio,gradle,flutter,bash,kali,arduino,nginx,docker,vercel,unity,figma,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,npm,react,angular,electron,mysql,laravel,php,ts,py,r,java,c,cpp,cs,kotlin,visualstudio,git,github,vscode,wordpress,netlify,heroku,firebase,androidstudio,gradle,flutter,bash,kali,arduino,nginx,docker,vercel,unity,figma,linux)](https://skillicons.dev)
 
 ---
 
